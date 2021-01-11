@@ -1,12 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
 
 <p align="center">
-  <img src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width=700>
+  <img src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/learn.jpg" width=700>
   <br><br>
 </p>
 
+I am currently looking for internship opportunities.
 
+- 🌟 Interested in full-stack and software development
+- 🎉 Bachelor of Science in Computer Science
+- 💻 With 4 years' computer science and technology education
+- 📚 Plan to obtain a Master's degree in the future
+- 🌱 Currently learning React
 
 
 
