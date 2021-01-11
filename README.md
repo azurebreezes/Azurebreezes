@@ -14,6 +14,17 @@ I am currently looking for internship opportunities.
 - 📚 Plan to obtain a Master's degree in the future
 - 🌱 Currently learning React
 
+<hr>
+
+<p align="center>
+    <i>Let's get in touch!</i>
+    <p align="center">
+    <a href= "https://www.linkedin.com/in/changkai/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+    <a href= "mailto:changkaiyuan0916@gmail.com"><img src="https://img.icons8.com/wired/64/000000/apple-mail.png"/></a>
+    <a href= "https://sunday-code.github.io/"><img src="https://img.icons8.com/windows/48/000000/portfolio.png"/></a>
+    </p>
+</p>
+
 
 
 
