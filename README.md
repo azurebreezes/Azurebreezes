@@ -6,7 +6,7 @@
   <br><br>
 </p>
 
-I am currently looking for 💼**internship opportunities and entry level positions**.
+I am currently looking for 💼 **internship opportunities** and **entry level positions**.
 
 - 🌟 Interested in full-stack and software development
 - 🎉 Bachelor of Science in Computer Science
