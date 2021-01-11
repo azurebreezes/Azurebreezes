@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png)
+
+<img align = "center" src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width="400">
 
 
 
