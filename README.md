@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width=100>
+  <img src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width=700>
   <br><br>
 </p>
 
