@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 
-<img align = "center" src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width="400">
+<p align="center">
+  <img src="https://github.com/sunDay-code/sunDay-code/blob/master/imgs/helloworld.png" width=100>
+  <br><br>
+</p>
 
 
 
