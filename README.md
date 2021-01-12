@@ -8,10 +8,10 @@
 
 I am currently looking for 💼 **internship opportunities** and **entry level positions**.
 
-- 🌟 Interested in full-stack and software development
+- 🌟 Interested in 🔨 **Software Development** and 🌏 **Full-stack**
 - 🎉 Bachelor of Science in Computer Science
 - 💻 With 4 years' computer science and technology education
-- 📚 Plan to obtain a Master's degree in the future
+- 📚 Plan to pursue a Master's degree in the future
 - 🌱 Currently learning React
 
 <hr>
