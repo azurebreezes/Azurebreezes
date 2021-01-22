@@ -12,7 +12,7 @@ I am currently looking for 💼 **internship opportunities** and **entry level p
 - 🎉 Bachelor of Science in Computer Science
 - 💻 With 4 years' computer science and technology education
 - 📚 Plan to pursue a Master's degree in the future
-- 🌱 Currently learning React
+<!-- - 🌱 Currently learning Python -->
 
 <hr>
 
